@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 19b280ec47af2f642a5cf6420eebba2e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "CIRCULO POLAR \xC1RTICO"
+    100004: "C\xCDRCULO POLAR ANTARTICO"
+    100006: Earth
+    100008: LINHA DO EQUADOR
+    100010: MERIDIANO DE GREENWICH
+    100012: "TR\xD3PICO DE CAPRIC\xD3RNIO"
+    100014: "TR\xD3PICO DE C\xC2NCER"
+    400000: //RootNode
+    400002: "CIRCULO POLAR \xC1RTICO"
+    400004: "C\xCDRCULO POLAR ANTARTICO"
+    400006: Earth
+    400008: LINHA DO EQUADOR
+    400010: MERIDIANO DE GREENWICH
+    400012: "TR\xD3PICO DE CAPRIC\xD3RNIO"
+    400014: "TR\xD3PICO DE C\xC2NCER"
+    2100000: TERRA
+    2100002: Amiga body
+    2100004: 10 - Default
+    2300000: "CIRCULO POLAR \xC1RTICO"
+    2300002: "C\xCDRCULO POLAR ANTARTICO"
+    2300004: Earth
+    2300006: LINHA DO EQUADOR
+    2300008: MERIDIANO DE GREENWICH
+    2300010: "TR\xD3PICO DE CAPRIC\xD3RNIO"
+    2300012: "TR\xD3PICO DE C\xC2NCER"
+    3300000: "CIRCULO POLAR \xC1RTICO"
+    3300002: "C\xCDRCULO POLAR ANTARTICO"
+    3300004: Earth
+    3300006: LINHA DO EQUADOR
+    3300008: MERIDIANO DE GREENWICH
+    3300010: "TR\xD3PICO DE CAPRIC\xD3RNIO"
+    3300012: "TR\xD3PICO DE C\xC2NCER"
+    4300000: Earth
+    4300002: "CIRCULO POLAR \xC1RTICO"
+    4300004: "TR\xD3PICO DE C\xC2NCER"
+    4300006: LINHA DO EQUADOR
+    4300008: "TR\xD3PICO DE CAPRIC\xD3RNIO"
+    4300010: "C\xCDRCULO POLAR ANTARTICO"
+    4300012: MERIDIANO DE GREENWICH
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TEXTURA_AMARELA
+    second: {fileID: 2800000, guid: 1a00a00b825a36c4583c85680ef8d98f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TEXTURA_VERMELHA
+    second: {fileID: 2800000, guid: c5cbfd25db6851d44a502c7e0f21f146, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: earthbump1k
+    second: {fileID: 2800000, guid: 1645d988a7b0eb24699de0a696b2999f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: earthmap1k
+    second: {fileID: 2800000, guid: 248252f13961a4c4b91b326a54a7fd94, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
